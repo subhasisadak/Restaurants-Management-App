@@ -1,0 +1,14 @@
+          PIKAR BHATER HOTEL
+=====================================
+    ITEM              QTY   PRICE
+=====================================
+ Pan Fried Chicken    10    750.0
+ Momo
+ Chicken Momo         5     250.0
+ Mutton Biryani       7     1050.0
+ Chicken Tikka        4     1200.0
+ Butter Masala
+=====================================
+ Total Amount               3250.0
+=====================================
+
